@@ -4,9 +4,11 @@
 Exploring Twitter Users' Engagement Patterns with Positive and Negative Tweets on Gender Pay Gap: A Comparative Study.
 
 ##Introduction
+
 Gender pay inequality continues to persist, with women earning only 83% of what men make when working full-time in the US, according to American Assoication of University Women(AAUW). This disparity is further exacerbated by the fact that 14 out of the 20 lowest-paying jobs are predominanatly held by women, while 15 of the top highest-paying jobs are predominantly held by women, while 15 of the top highest-paying jobs are dominated by men. As a result, a 20-year-old woman starting her career today stands to lose a staggering  $406,760 over a 40-year career compared to her male counterpart, as reported by AAUW. The financial impact of this disparity is immense, with working women collectively losing out on over $500 billion annually. Despite efforts towards progress, the slow rate of change indicates that equality in pay may not be achived unitl the year 2111, highlighting the urgent need for action to address this persistent issue.
 
 ##Objectives of the Project
+
 The project aims to achieve several objectives. Firstly, it will involve analyzing the volume of positive and negative tweets, with the goal of understanding the sentiment trends in social media conversations. Secondly, the project will explore engagement metrics, such as likes, shares, and comments, in relation to positive and negative tweets, in order to uncover patterns and trends in user engagement. Lastly, the project will seek to draw meaningful insigts from the engagement patterns with different polarity of tweets, with the objective of gaining a deeper undersstanding of how positive and negative sentiment impacts socila media engagement. By achieving these objectives, the project aims to provide valuable insights and understanding of sentiment analysis and engagement metrics in the context of social media conversations.
 
 ## Description of the Dataset
